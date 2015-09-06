@@ -5,9 +5,11 @@ Retro Hacks is a collection of ideas, hacks,  and content on fun inventions insp
 
 Split in categories of movies,  music, cartoons  videos this repo will be made up hack inspiration, starter kits  api suggestion and tools you can use to build, have fun, and teach others.  
 
-Guidelines to re-using and idea 
+Guidelines to using  
 
- Give credit where credit it due.  If you happen to be inspired by one of the ideas in this repo please use this citation :  inspired by githubrepo.
-Share you idea with us.  Tweet #retrohackdecade #inspirationname for example #retrohack80s #Backtothefuture .  Share a vine video
-Using a existing code base.   If you happen to use an existing code base please tweet the contributor.
+-Give credit where credit is due.  If you happen to be inspired by one of the ideas in this repo please use this citation :  inspired by githubrepo.
+
+-Share you idea with us.  Tweet #retrohackdecade #inspirationname for example #retrohack80s #Backtothefuture .  Share a vine video
+
+-Using a existing code base.   If you happen to use an existing code base please tweet the contributor.
 
